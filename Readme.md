@@ -3,4 +3,4 @@ Science course _"Laboratorio di Programmazione di Rete"_  (LPR) at the Universit
 
 It is a file sharing system that uses the Java-RMI technology.
 
-You can find out more (if you can read italian) by reading this report. This was my _very_ first experience with LaTeX. 
+You can find out more (if you can read italian) by reading [this report](https://www.dropbox.com/s/bbyi66j61t13oul/LPR.pdf). This was my _very_ first experience with LaTeX. 
